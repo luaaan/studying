@@ -1,2 +1,2 @@
 # studying
-projects with the technologies that i'm studying.
+this repository contains some projects with the technologies that i'm studying.
